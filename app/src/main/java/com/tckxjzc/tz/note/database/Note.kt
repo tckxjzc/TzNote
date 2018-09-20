@@ -8,7 +8,7 @@ class Note() : LitePalSupport() {
     lateinit  var content: String
     constructor( title: String,  content: String) : this() {
         this.title=title
-        this.content=title
+        this.content=content
     }
 
     var createTime: Date = Date()
