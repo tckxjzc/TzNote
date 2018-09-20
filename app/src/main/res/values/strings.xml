@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TzNote</string>
+    <string name="add">+</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="save">Save</string>
+    <string name="title">标题</string>
+    <string name="content">内容</string>
+    <string name="modify">修改Note</string>
+    <string name="new_text">新建Note</string>
+</resources>
