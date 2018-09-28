@@ -3,8 +3,10 @@
     <string name="add">+</string>
     <string name="title_activity_edit">EditActivity</string>
     <string name="save">Save</string>
-    <string name="title">标题</string>
-    <string name="content">内容</string>
-    <string name="modify">修改Note</string>
-    <string name="new_text">新建Note</string>
+    <string name="title">title</string>
+    <string name="content">content</string>
+    <string name="modify">Modify Note</string>
+    <string name="new_text">New Note</string>
+    <string name="backup">backup</string>
+    <string name="recovery">recovery</string>
 </resources>
